@@ -1,0 +1,70 @@
+.nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: gray;
+    color: aliceblue;
+}
+.nav a{
+    text-decoration: none;
+    display: block;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+    color: aliceblue;
+}
+.nav li{
+    display:inline-block;
+
+}
+.nav a:hover{
+    background-color: gray;
+}
+.card figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+    height: 300px;
+}
+.card1 figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+    height: 300px;
+}
+.card2 figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+    height: 300px;
+}
+.card3 figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+    height: 300px;
+}
+.card4 figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+}
+.card5 figure img{
+    width: 300px;
+    border: 2px solid gray;
+    box-shadow: 10px 10px 8px 9px gray;
+    border-radius: 10px;
+}
